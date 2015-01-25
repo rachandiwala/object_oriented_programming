@@ -30,7 +30,7 @@ end
 
 # i is for instructors
 
-i=Instructor.new("")
+i=Instructor.new("Chrish")
 i.greeting
 i.teach
 
